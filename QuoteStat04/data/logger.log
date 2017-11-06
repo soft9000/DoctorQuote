@@ -1,0 +1,2 @@
+2017/11/03: 06.13.42 (LOCAL)	select count(QuoteStatus) from (select * from DbQuote order by QuoteStatus) group by QuoteStatus;
+2017/11/03: 06.15.18 (LOCAL)	create table dum  as select * from DbQuote where QuoteStatus <> 0;

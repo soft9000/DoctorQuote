@@ -1,0 +1,25 @@
+2017/10/31: 07.02.21 (LOCAL)	Testing Success: http://localhost:9000/TestQuoteIO.php
+2017/10/31: 10.22.11 (LOCAL)	Basic (CRUD) test case for TestQuoteSQL passes.
+2017/11/01: 03.04.44 (LOCAL)	Conversion complete. All is well.
+2017/11/01: 06.05.43 (LOCAL)	Status updates working well. Need to protect against robotic attacks, as well as mono-themed 'reviewers.'
+2017/11/01: 07.47.18 (LOCAL)	Adding Banman features ... then removed!
+2017/11/01: 09.16.20 (LOCAL)	Broke status management into stages. Fixed a bug with recording pw quote with LAST quote status.
+2017/11/01: 09.17.09 (LOCAL)	Added DbTracker / IP address tracking. Tested fine.
+2017/11/01: 09.20.27 (LOCAL)	(IP + action tracking will ALSO allow us to back-out nasty-people's deltas, as well as service the envisioned community thumbs-up.)
+2017/11/01: 13.44.32 (LOCAL)	Added CSS3 stylesheet.
+2017/11/02: 06.58.01 (LOCAL)	Had it wrong - fixed the global array reference errors so as to match PHP 5 convention.
+2017/11/03: 02.38.55 (LOCAL)	Basic pagination through quotation change history works well.
+2017/11/03: 07.46.13 (LOCAL)	Re-built DbTracker using Maint_DbTracker.java.
+2017/11/03: 07.46.37 (LOCAL)	Testing success!
+2017/11/03: 08.50.49 (LOCAL)	Added the logo .gif to each page.
+2017/11/03: 09.51.33 (LOCAL)	Server is on PHP5, SQLite version 3.7. We are using PHP7, Sqlite 3.11. Aparently there are enough deltas to make the .sqlte3 db binaries incompatible. Need to data-pump.
+2017/11/03: 11.17.07 (LOCAL)	ssh ftpuid@siteaddr  - no workee!
+2017/11/03: 12.55.36 (LOCAL)	Java: MySQL driver failure - need to dig-up a driver for MySQL 5.0.
+2017/11/03: 12.56.02 (LOCAL)	PHP: mysql_connect($hostname, $username, $password) - also no longer working - not supported in PHP7 (sigh)
+2017/11/03: 13.22.19 (LOCAL)	ssh -oHostKeyAlgorithms=+ssh-dss ftpuid@siteaddr - WORKS GREAT!
+2017/11/03: 13.43.31 (LOCAL)	Took SECONDS to import an SQLite3 dump on the server ...)
+2017/11/03: 14.27.38 (LOCAL)	QuoteStat04 ultimate uploaded to TQFTD. Lightly tested & tweaked. So far, so good!
+2017/11/04: 23.46.53 (LOCAL)	Re-factored QuoteGBUDatabase into DbPublic and DbQuotie to create a public-facing GBU.
+2017/11/06: 04.05.48 (LOCAL)	Admin strategy created + tested. Works okay.
+2017/11/06: 07.25.20 (LOCAL)	Linked new public-facing page to the main site!
+2017/11/06: 08.55.21 (LOCAL)	Updated readRandom() logic to use getRandomReadSQL() so as to consider DBTRACKER votes, as required!

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>HTML Design Template</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="drquote.css">
+    </head>
+    <body>
+        <!-- table class="logo"><tr><td>
+                    <img src="http://www.TheQuoteForToday.com/TheQuoteForToday.gif">
+                </td><td>
+                    <a class="buttonmedium" href="http://TheQuoteForToday.com/QuoteStat04">MENU</a>
+                </td></tr></table -->
+
+        <form action="PostTemplate.php" id="formnav" method="post">
+            <input type="submit" class="buttonmedium" name="movement" value="<<">
+            <select name="GbuNav" form="formnav" >
+                <option value="best">Best</option>
+                <option value="good">Good</option>
+                <option value="bad">Bad</option>
+                <option value="ugly">Ugly</option>
+                <option value="undefined" selected>Undefined</option>
+            </select> 
+            <input type="submit" class="buttonmedium" name="movement" value=">>">
+        </form>        
+
+        <div>
+            <form action="PostTemplate.php" id="formtest" method="post">
+                <table>
+                    <tr><td><input type="submit" class="buttonmedium" name="QuoteGBU" value="best">BEST</td></tr>
+                    <tr><td><input type="submit" class="buttonmedium" name="QuoteGBU" value="good">GOOD</td></tr>
+                    <tr><td><input type="submit" class="buttonmedium" name="QuoteGBU" value="bad">BAD</td></tr>
+                    <tr><td><input type="submit" class="buttonmedium" name="QuoteGBU" value="ugly">UGLY</td></tr>
+                    <tr><td><textarea name="Quote" form="formtest" rows="20" cols="50">Enter text here...</textarea></td></tr>
+                    <tr><td><b>Quote ID: <input type="text" class="qnum" name="QuoteNumber" value="0000" readonly></b></td></tr>
+                </table>
+            </form>
+        </div>
+    </body>
+</html>
