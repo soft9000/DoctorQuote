@@ -15,6 +15,6 @@ Enjoy,
 -- Randall Nagy
 
 
-[Soft9000.com](http:\\soft9000.com)
+[Udemy](https://www.udemy.com/user/randallnagy2/)
 
 [Facebook](https://www.facebook.com/randall.nagy/)
