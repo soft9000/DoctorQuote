@@ -9,10 +9,12 @@ Are you looking for the [classic Doctor Quote Software](https://github.com/soft9
 -Not to forget my classic software name for a free, web-based, cross-platform (PHP), [quotation-management](https://github.com/soft9000/DoctorQuote/tree/master/QuoteStat04), tool.
 
 
+
 Enjoy,
 
 -- Randall Nagy
 
+
 [Soft9000.com](http:\\soft9000.com)
 
-[Udemy](https://www.udemy.com/user/randallnagy2/)
+[Facebook](https://www.facebook.com/randall.nagy/)
