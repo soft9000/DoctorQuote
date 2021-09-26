@@ -19,6 +19,7 @@ Yours in Inspirations,
 -- Randall Nagy
 
 Author: "**An Interview with a Saint**."
+
 [Now available on **Amazon.com**!](https://www.amazon.com/dp/B002BWOTPM)
 
 (*) p.s: *This classic 32 bit Windows program works fine on Linux, as well!* 
@@ -26,7 +27,10 @@ Author: "**An Interview with a Saint**."
 To run on every version of Windows ever created, as well as Linux, simply:
 
 1.) Download the zip archive
-2.) Un-zip the archive to a new folder.
-3.) Change directory to the new folder and 
+
+2.) Un-zip the archive to a new folder
+
+3.) Change directory to the new folder and
+
 4.) Run DoctorQuote.exe from that new folder, as well!
 
