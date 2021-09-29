@@ -17,4 +17,7 @@ Enjoy,
 
 [Udemy](https://www.udemy.com/user/randallnagy2/)
 
-[Facebook](https://www.facebook.com/randall.nagy/)
+[Facebook](https://www.facebook.com/groups/mightymaxims)
+
+[Amazon](https://www.amazon.com/dp/B09H9DV8KV)
+
