@@ -18,11 +18,6 @@ Yours in Inspirations,
 
 -- Randall Nagy
 
-Author: "**An Interview with a Saint**."
-
-[Now available on **Amazon.com**!](https://www.amazon.com/dp/B002BWOTPM)
-
-
 
 (*) p.s: *This classic 32 bit Windows program works fine on Linux, as well!* 
 
