@@ -10,3 +10,8 @@
 2016-02-17: QuoteCrud02 - Object-centric re-factoring. Introduced a healthy set of bugs.
 2016-02-12: QuoteCrud - Created from PHP CRUD. Simple copy + update of FOO.PHP -> QuoteGBU.PHP.
 2016-02-12: QuoteCrud - Created. Goal is to provide a globally-maintained quotations database.
+
+
+Sharing is care-ing?
+
+-- [Randall Nagy](http://soft9000.com)
