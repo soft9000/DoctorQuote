@@ -12,6 +12,6 @@
 2016-02-12: QuoteCrud - Created. Goal is to provide a globally-maintained quotations database.
 
 
-Sharing is care-ing?
+To share is to care?
 
 -- [Randall Nagy](http://soft9000.com)
