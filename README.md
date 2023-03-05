@@ -14,6 +14,7 @@ Enjoy,
 
 -- Randall Nagy
 
+[Mighty Maxims](https://github.com/soft9000/mightymaxims)
 
 [Udemy](https://www.udemy.com/user/randallnagy2/)
 
