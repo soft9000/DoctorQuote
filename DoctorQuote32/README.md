@@ -31,3 +31,8 @@ To run on every version of Windows ever created, as well as Linux, simply:
 
 4.) Run [DoctorQuote.exe](https://github.com/soft9000/DoctorQuote/blob/master/DoctorQuote32/DoctorQuoteFree.zip) from that new folder, as well!
 
+
+Sharing is careing!
+
+-- [Randall Nagy](http://soft9000.com)
+
