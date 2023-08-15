@@ -9,10 +9,10 @@ Might you be looking for how to use the [MightyMaxim Package](https://pypi.org/p
 
 If so, then after installing simply:
 
-'''
+```
 >>> import MightyMaxims
 >>> help(MightyMaxims)
-'''
+```
 
 ## Windows GUI
 Here is the [classic Doctor Quote Software](https://github.com/soft9000/DoctorQuote/tree/master/DoctorQuote32)?
