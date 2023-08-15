@@ -5,7 +5,7 @@ Welcome to the official site for Doctor Quote!
 ![DrQuote01_Logo_Red](https://user-images.githubusercontent.com/19798749/134812303-0ef117bb-9a91-41e8-b10f-79056fafc388.png)
 
 ## MightyMaxims: The Python Package
-Might you be looking for how to use the [MightyMaxim Package](https://pypi.org/project/MightyMaxims/1.0.1/)?
+Might you be looking for how to use the [MightyMaxim Package](https://pypi.org/project/MightyMaxims)?
 
 If so, then after installing simply:
 
