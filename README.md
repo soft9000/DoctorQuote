@@ -33,6 +33,23 @@ Enjoy,
 
 [Amazon](https://www.amazon.com/dp/B09H9DV8KV)
 
+## zMighty Opportunity
+We must believe - from self-sayings to pet-proverbs - that this great blue marble of ours 'behoards many more marvelous maxims.
+
+A mighty maxim, never fame did require. 
+
+So if you've got, then consider allowing us to review your inspiration(s) for possible inclusion into our ever-growing collection of hand-picked planetary maxims.
+
+![MightyMaxims Quote Submissions](https://github.com/soft9000/DoctorQuote/blob/master/MightyMaxims/QuoteYourSelf01.png)
+
+After all:
+
+```
+"Big shots are only little shots who keep shooting."
+
+--- Christopher Morley
+```
+
 ## zSupport?
 If you want to support the effort, I seek no donations. Instead, simply feel free to purchase one of [my educational](https://www.udemy.com/user/randallnagy2/) or [printed](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN?ref=sr_ntt_srch_lnk_1&qid=1660050704&sr=8-1) productions?
 
