@@ -2,6 +2,8 @@
 
 Welcome to the official site for Doctor Quote!
 
+We're sharing our 'fav quotes on [soft9000.com](http://soft9000.com). Tell "your browser" that it's ok to enjoy a static, read only, (!) website?
+
 ![DrQuote01_Logo_Red](https://user-images.githubusercontent.com/19798749/134812303-0ef117bb-9a91-41e8-b10f-79056fafc388.png)
 
 ## MightyMaxims: The Python Package
