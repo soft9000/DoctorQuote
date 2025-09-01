@@ -27,13 +27,11 @@ Enjoy,
 
 -- Randall Nagy
 
-[Mighty Maxims](https://github.com/soft9000/mightymaxims)
+[YouTube Nexus](https://www.youtube.com/@MightyMaxims)
 
-[Udemy](https://www.udemy.com/user/randallnagy2/)
+[Online Community](https://ko-fi.com/doctorquote)
 
-[Facebook](https://www.facebook.com/groups/mightymaxims)
-
-[Amazon](https://www.amazon.com/dp/B09H9DV8KV)
+[Author's Page](https://www.amazon.com/dp/B09H9DV8KV)
 
 ## zMighty Opportunity
 We must believe - from self-sayings to pet-proverbs - that this great blue marble of ours 'behoards many more marvelous maxims.
