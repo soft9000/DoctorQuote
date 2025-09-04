@@ -2,7 +2,7 @@
 
 Welcome to the official site for Doctor Quote!
 
-We're sharing our 'fav quotes on [MightyMaxims.com](http://mightymaxims.com) and [soft9000.com](http://soft9000.com). Tell "your browser" that it's ok to enjoy a static, read only, (!) website?
+We're sharing our 'fav ideas on [MightyMaxims.com](http://mightymaxims.com), [amazon](https://us.amazon.com/stores/Randall-Nagy/author/B08ZJLH1VN), [the community](https://ko-fi.com/doctorquote) and [video nexus](https://www.youtube.com/@MightyMaxims). (For real 'quoties, we've also a [quote cleanup challenge](https://github.com/soft9000/mightymaxims) to share!)
 
 ![DrQuote01_Logo_Red](https://user-images.githubusercontent.com/19798749/134812303-0ef117bb-9a91-41e8-b10f-79056fafc388.png)
 
