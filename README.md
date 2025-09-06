@@ -31,7 +31,7 @@ Enjoy,
 
 [Online Community](https://ko-fi.com/doctorquote)
 
-[Author's Page](https://www.amazon.com/dp/B09H9DV8KV)
+[Buy Book](https://www.amazon.com/gp/product/B0FPR7NKYR)
 
 ## zMighty Opportunity
 We must believe - from self-sayings to pet-proverbs - that this great blue marble of ours 'behoards many more marvelous maxims.
