@@ -1,26 +1,11 @@
-Linked by the [MightyMaxims site](https://www.mightymaxims.com), a related nexus is [also here](https://github.com/DoctorQuote/DoctorQuote).
+# Confusing 
+I've a split personality - one for **Soft9000** and one for **Doctor Quote**.
 
-## 💫NEW: Improved Python Support (2026/06/07)
-Added support for running `MightyMaxims` from the command line. 
+# Welcome to the Soft9000
 
-👉 First [download the installer](https://github.com/soft9000/DoctorQuote/blob/master/mightymaxims-2026.6.7-py3-none-any.whl).
+Linked by the [MightyMaxims site](https://www.mightymaxims.com) and the [books] **Soft9000** can't go much anywhere else.
 
-👉 Once installed either:
-
-```python -m MightyMaxims```
-
-~ or ~
-
-```>>> import MightyMaxims```
-
-~ or ~
-
-```MightyMaxims```
-
-👉 Note that the program no longer exits after being initialized. 
-
-👉 See the video for more information.
-
+But the newer **Doctor Quote** Community [is here](https://github.com/DoctorQuote/DoctorQuote).
 
 ## zSupport?
 If you want to support the effort, I seek no donations. Instead, simply feel free to purchase one of [my educational](https://www.udemy.com/user/randallnagy2/) or [printed](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN?ref=sr_ntt_srch_lnk_1&qid=1660050704&sr=8-1) productions?
