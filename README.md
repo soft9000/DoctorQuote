@@ -3,7 +3,7 @@ I've a split personality - one for **Soft9000** and one for **Doctor Quote**.
 
 # Welcome to the Soft9000
 
-Linked by the [MightyMaxims site](https://www.mightymaxims.com) and the [books] **Soft9000** can't go much anywhere else.
+Linked by the [MightyMaxims site](https://www.mightymaxims.com) and the [books](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN?ref=sr_ntt_srch_lnk_1&qid=1660050704&sr=8-1) **Soft9000** can't go much anywhere else.
 
 But the newer **Doctor Quote** Community [is here](https://github.com/DoctorQuote/DoctorQuote).
 
