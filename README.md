@@ -6,15 +6,27 @@ We're sharing our 'fav ideas on [MightyMaxims.com](http://mightymaxims.com), [am
 
 ![DrQuote01_Logo_Red](https://user-images.githubusercontent.com/19798749/134812303-0ef117bb-9a91-41e8-b10f-79056fafc388.png)
 
-## MightyMaxims: The Python Package
-Might you be looking for how to use the [MightyMaxim Package](https://pypi.org/project/MightyMaxims)?
+## 💫NEW: Improved Python Support (2026/06/07)
+Added support for running `MightyMaxims` from the command line. 
 
-If so, then after installing simply:
+👉 First [download the installer](https://github.com/DoctorQuote/DoctorQuote/blob/master/mightymaxims-2026.6.7-py3-none-any.whl).
 
-```
->>> import MightyMaxims
->>> help(MightyMaxims)
-```
+👉 Once installed either:
+
+```python -m MightyMaxims```
+
+~ or ~
+
+```>>> import MightyMaxims```
+
+~ or ~
+
+```MightyMaxims```
+
+👉 Note that the program no longer exits after being initialized. 
+
+👉 See the video for more information.
+
 
 ## Windows GUI
 Here is the [classic Doctor Quote Software](https://github.com/soft9000/DoctorQuote/tree/master/DoctorQuote32)?
@@ -31,7 +43,7 @@ Enjoy,
 
 [Online Community](https://ko-fi.com/doctorquote)
 
-[Buy Book](https://www.amazon.com/gp/product/B0FPR7NKYR)
+[Buy a Book or 6](https://www.amazon.com/gp/product/B0FPR7NKYR)
 
 ## zMighty Opportunity
 We must believe - from self-sayings to pet-proverbs - that this great blue marble of ours 'behoards many more marvelous maxims.
